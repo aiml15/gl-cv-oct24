@@ -26,3 +26,8 @@ Navigate to your Drive's root folder and clone the project repository by running
 1. Open your **Google Drive**.
 2. Navigate to the cloned repository folder (`gl-cv-oct24`).
 3. Right-click the notebook file you want to use and select **Open with** > **Google Colab**.
+
+#### Artifacts
+s1 - https://drive.google.com/drive/folders/1Js6ZpWLM8gz0XTBGSjGn_GyFHUb20g6P?usp=sharing
+
+s2 - https://drive.google.com/drive/folders/1oovZEQoJggxqWwCn8XQSjdyhG5Khk7lx?usp=sharing
